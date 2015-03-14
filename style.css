@@ -1,0 +1,26 @@
+.timer {
+    font-size: 80px;
+    color: #a0a0a0;
+}
+.btn {
+    font-size: 40px;
+    padding:6px;
+    background-color: #779977;
+    width: 120px;
+    display:block;
+    text-align: center;
+    margin: 4px; float: left;
+    text-decoration: none;
+    color: #dfd;
+}
+.rounds {
+    clear:both;
+    margin: 4px;
+    font-size: 40px;
+}
+.checkpoint {
+    border-left:4px solid #DDD;
+    margin: 2px;
+    padding: 2px;
+    color: #a7a7a7;
+}
